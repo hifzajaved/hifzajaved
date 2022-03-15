@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hifzajaved
 - 👀 I’m interested in human-robot interaction, affective computing, and reinforcement learning.
 - 🌱 I’m currently learning about AI and deep learning.
-- 📫 How to reach me hifzajaved1@gmail.com
 
 <!---
 hifzajaved/hifzajaved is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
