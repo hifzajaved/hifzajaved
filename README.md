@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hifzajaved
-- 👀 I’m interested in human-robot interaction, affective computing, and reinforcement learning.
+- 👀 I’m interested in human-robot interaction, affective computing, and AI personalization.
 - 🌱 I’m currently learning about AI and deep learning.
 
 <!---
